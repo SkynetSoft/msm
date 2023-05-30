@@ -1,0 +1,4 @@
+discord
+pyngrok
+psutil
+mcrcon
